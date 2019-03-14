@@ -20,6 +20,13 @@ uni import Ling/PlanetSitemap
 Or just download it and place it where you want otherwise.
 
 
+Summary
+===========
+- [PlanetSitemap api](https://github.com/lingtalfi/PlanetSitemap/blob/master/doc/api/Ling/PlanetSitemap.md) (generated with [DocTools](https://github.com/lingtalfi/DocTools))
+- [How to use?](#how-to-use)
+- [History log](#history-log)
+
+
 
 
 How to use?
@@ -47,6 +54,10 @@ PlanetSitemapHelper::createGithubSitemap($planetDir, $baseUrl);
 History Log
 =============
     
+- 1.0.1 -- 2019-03-14
+
+    - add summary to README.md
+
 - 1.0.0 -- 2019-03-14
 
     - initial commit
